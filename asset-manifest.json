@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/knn-for-ml/static/css/main.29229f10.chunk.css",
+    "main.js": "/knn-for-ml/static/js/main.17ea2731.chunk.js",
+    "main.js.map": "/knn-for-ml/static/js/main.17ea2731.chunk.js.map",
+    "runtime-main.js": "/knn-for-ml/static/js/runtime-main.3a59d1f3.js",
+    "runtime-main.js.map": "/knn-for-ml/static/js/runtime-main.3a59d1f3.js.map",
+    "static/css/2.01794eb1.chunk.css": "/knn-for-ml/static/css/2.01794eb1.chunk.css",
+    "static/js/2.21829c22.chunk.js": "/knn-for-ml/static/js/2.21829c22.chunk.js",
+    "static/js/2.21829c22.chunk.js.map": "/knn-for-ml/static/js/2.21829c22.chunk.js.map",
+    "static/js/3.f6327778.chunk.js": "/knn-for-ml/static/js/3.f6327778.chunk.js",
+    "static/js/3.f6327778.chunk.js.map": "/knn-for-ml/static/js/3.f6327778.chunk.js.map",
+    "index.html": "/knn-for-ml/index.html",
+    "static/css/2.01794eb1.chunk.css.map": "/knn-for-ml/static/css/2.01794eb1.chunk.css.map",
+    "static/css/main.29229f10.chunk.css.map": "/knn-for-ml/static/css/main.29229f10.chunk.css.map",
+    "static/js/2.21829c22.chunk.js.LICENSE.txt": "/knn-for-ml/static/js/2.21829c22.chunk.js.LICENSE.txt",
+    "static/media/cetyslogo.e1730752.png": "/knn-for-ml/static/media/cetyslogo.e1730752.png",
+    "static/media/req1.4de9e402.PNG": "/knn-for-ml/static/media/req1.4de9e402.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a59d1f3.js",
+    "static/css/2.01794eb1.chunk.css",
+    "static/js/2.21829c22.chunk.js",
+    "static/css/main.29229f10.chunk.css",
+    "static/js/main.17ea2731.chunk.js"
+  ]
+}
