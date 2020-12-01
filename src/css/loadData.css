@@ -1,0 +1,17 @@
+.backgroundMain{
+    background: gray;
+    height: 100vh;
+}
+.contenedor{
+    background: linear-gradient(90deg, #0d274c, #1c53a3);
+    color: yellow;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+}
+#logoCetys{
+    width: 15%;
+}
+#req1{
+    width: 50%;
+}
